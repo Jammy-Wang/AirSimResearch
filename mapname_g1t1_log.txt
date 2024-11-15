@@ -1,0 +1,28 @@
+Run 1 of 3
+Connection confirmed
+Passed first gate at time: 2024-11-15 03:19:44.578959
+Passed last gate at time: 2024-11-15 03:20:32.568930
+Time between first and last gate: 0:00:47.989971
+Time In Between (in nanoseconds): 47989971000
+Average speed between first and last gates: 9.53 m/s
+Top speed between first and last gates: 12.21 m/s
+
+
+Run 2 of 3
+Connection confirmed
+Passed first gate at time: 2024-11-15 03:20:50.517531
+Passed last gate at time: 2024-11-15 03:21:38.585937
+Time between first and last gate: 0:00:48.068406
+Time In Between (in nanoseconds): 48068406000
+Average speed between first and last gates: 9.52 m/s
+Top speed between first and last gates: 12.21 m/s
+
+
+Run 3 of 3
+Connection confirmed
+Passed first gate at time: 2024-11-15 03:21:56.550696
+Passed last gate at time: 2024-11-15 03:22:44.604926
+Time between first and last gate: 0:00:48.054230
+Time In Between (in nanoseconds): 48054230000
+Average speed between first and last gates: 9.52 m/s
+Top speed between first and last gates: 12.21 m/s
