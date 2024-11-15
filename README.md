@@ -7,7 +7,7 @@ This guide will help you set up your Python environment and install the necessar
 
 To get started, clone this repository to your directory.
 ```bash
-git clone https://github.com/robin6205/SWARM-Drone-Racer.git
+git clone https://github.com/Jammy-Wang/AirSimResearch.git
 ```
 
 ## 1. Check Python Version
